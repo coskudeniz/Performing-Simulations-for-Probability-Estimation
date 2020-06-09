@@ -1,4 +1,5 @@
 # Performing-Simulations-for-Probability-Estimation 
+Random walks are simulated to estimate a desired probability using a vectorized implementation.
 
 ## Aim
 The aim here is to simulate random walks for a particle in 2-D using Brownian motion in order to estimate the probability of P(X<0|y=0 for the first time). X is a random variable and can take different values based on where the particle crosses the x-axis (y=0) for the first time. 
